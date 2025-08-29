@@ -1,4 +1,5 @@
 Company Performance Analysis
+
 This repository presents an analysis of two key business units within Company: EcoDrive Innovations (Production Efficiency) and Kalpana Mobiles (Sales Performance). The analysis identifies key performance indicators, highlights strengths and areas for improvement, and visualizes trends based on monthly and center/salesperson specific data.
 Project Structure:
 •	EcoDrive Innovations: Production Efficiency Analysis
