@@ -60,4 +60,4 @@ This analysis provides a clear overview of both production and sales performance
 •	EcoDrive Innovations: Investigating the reasons for underperformance at the Jaipur production center and addressing the factors leading to missed targets in January, February, and April for overall production.
 •	Kalpana Mobiles: Understanding the challenges faced by Raj to improve sales performance and addressing the reasons for missed sales targets in April and May.
 
-![image alt] (https://github.com/apurbadas2311/EcoDrive-Innovations-Production-Efficiency-Analysis/blob/main/Production%20Overview%20Dashboard%20(EcoDrive).png?raw=true)
+![image alt](https://github.com/apurbadas2311/EcoDrive-Innovations-Production-Efficiency-Analysis/blob/main/Production%20Overview%20Dashboard%20(EcoDrive).png?raw=true)
